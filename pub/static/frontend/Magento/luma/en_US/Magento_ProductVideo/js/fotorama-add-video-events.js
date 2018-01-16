@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/Magento2_1/vendor/magento/module-product-video/view/frontend/web/js/fotorama-add-video-events.js

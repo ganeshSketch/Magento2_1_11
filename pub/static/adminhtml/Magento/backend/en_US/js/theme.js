@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/Magento2_1/vendor/magento/theme-adminhtml-backend/web/js/theme.js

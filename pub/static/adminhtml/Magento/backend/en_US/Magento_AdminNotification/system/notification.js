@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/Magento2_1/vendor/magento/module-admin-notification/view/adminhtml/web/system/notification.js
